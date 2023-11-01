@@ -7,3 +7,5 @@ It includes the following features:
 - Sending contact information to the manager.
 - Sending orders to the manager.
 - Ability to handle orders from multiple customers simultaneously.
+
+How it working you can look here https://t.me/ELFBAR_IL_Bot
